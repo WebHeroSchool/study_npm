@@ -1,0 +1,22 @@
+{
+  "name": "study_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js",
+    "create": "mkdir folder_project",
+    "delete": "rmdir folder_project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/study_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/study_npm/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/study_npm#readme"
+}
